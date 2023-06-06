@@ -24,7 +24,7 @@ Follow these steps to open and run the project:
      "api_key": "YOUR_API_KEY",
      "organization": "YOUR_ORGANIZATION_ID"
    }
-Place this file in the directory: C:\Users\username\.openai
+Place this file in the directory: `C:\Users\username\.openai`
 
 4. Launch Unity Editor and load the main scene located at Assets/Scenes.
 
