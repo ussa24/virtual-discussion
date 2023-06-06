@@ -6,10 +6,10 @@ This Unity project is a job interview simulation that utilizes Speech-to-Text (S
 - Unity Editor version: 2021.3.19f1
 - OpenAI API key
 - Additional Packages:
-  - Oculus Voice SDK
-  - Ready Player Me
-  - OpenAI-Unity SDK
-  - Assets
+  - [Oculus Voice SDK](https://developer.oculus.com/documentation/unity)
+  - [Ready Player Me](https://readyplayer.me/)
+  - [OpenAI-Unity SDK](https://github.com/srcnalt/OpenAI-Unity)
+  - [Scene](https://www.cgtrader.com/items/3174279/download-page)
 
 ## Getting Started
 Follow these steps to open and run the project:
