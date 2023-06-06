@@ -12,7 +12,7 @@ This Unity project is a job interview simulation that utilizes Speech-to-Text (S
   - [Scene](https://www.cgtrader.com/items/3174279/download-page)
 
 ## Getting Started
-Follow these steps to open and run the project:
+To use the project, you can either use the Windows Build (build folder in this repository) or follow these steps to open and run the project in Unity:
 
 1. Clone or download this repository.
 
